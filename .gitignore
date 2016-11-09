@@ -1,4 +1,5 @@
 *.cmake
 *.pyc
 test_package/build/
+test_package/*.pyc
 conaninfo.txt
